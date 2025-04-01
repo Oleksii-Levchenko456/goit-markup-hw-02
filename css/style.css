@@ -138,9 +138,20 @@ color: #404bbf;
   letter-spacing: 0.02em;
   color: #434455;
 }
+.list {
+  background-color: #FFFFFF;
+}
 .section-one {
   background-color: #2e2f42;
 }
 .section-tree {
   background-color: #F4F4FD;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.footer-paragraf {
+  line-height: 1.5;
+  color:#F4F4FD;
+  letter-spacing: 0.02em;
 }

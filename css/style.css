@@ -1,3 +1,8 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455 background-color #ffffff;
+}
+
 .logo {
   text-decoration: none;
 }
@@ -84,7 +89,7 @@ a {
 
   line-height: 40px;
   letter-spacing: 0.02em;
-  color: var(--navy-blue);
+  color: #2e2f42;
 }
 .header-3 {
   font-weight: 500;
@@ -108,4 +113,12 @@ a {
 }
 .button:hover {
   background: #404bbf;
+}
+.text {
+  font-weight: 400;
+  font-size: 16px;
+
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
 }

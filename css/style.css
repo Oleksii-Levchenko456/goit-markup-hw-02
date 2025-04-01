@@ -82,7 +82,7 @@ color: #404bbf;
 .address{
   font-style: normal;
 }
-.header-1 {
+.header-one {
   font-weight: 700;
   font-size: 56px;
   text-align: center;
@@ -90,7 +90,7 @@ color: #404bbf;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.header-2 {
+.header-two {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
